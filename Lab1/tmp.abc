@@ -1,10 +1,18 @@
-X:1
-T:Alexander's
-Z: id:dc-hornpipe-1
-M:C|
+X:97
+T:Rivg of PedBenagh
+Z: id:dc-reel-99
+M:C
 L:1/8
 K:D Major
-(3ABc|dAFA DFAd|fdcd FAdf|gfge fefd|(3efe (3dcB A2 (3ABc|!
-dAFA DFAd|fdcd FAdf|gfge fefd|(3efe dc d2:|!
-AG|FAdA FAdA|GBdB GBdB|Acec Acec|dfaf gecA|!
-FAdA FAdA|GBdB GBdB|Aceg fefd|(3efe dc d2:|!
+AF|E3B BAFG|(3BcB (3ABA A2G FED|C2A,2 CA,B,|C2EC F3D|!
+E2CE D3G|E2B,E G,A,B,B,|G,3B, A,2B,E|DEGA BDE2|edcA BAFG2|]!
+B2e2 e2dB|G3B dBGA|Bdef gfga|bagf edBd|!
+e3f ecce|d2dc d2bg|agef g3e|a2ge gaba|gedB GA:|!
+ef|g2fg ed^cde|g2dg eddg|eaa2 agef|gedB G2:|!
+Bd|e3f dBAG|EFGA A2|cA GED2|G2G2 EGG2|!
+GABc|A2BG AGEG|dGGd BGG2|egdB c2Bc|d2gd edef|gfgd edBG|A3B AGEG:|!
+EABc d2ef|g2fg edBG|ABcd e2dB|d4 G2|E4 dcd|edcA G2EF|G2Bd edd:|!
+efg|a3g e2g2|G2B2 cdef|gdBd gfed|e3f gafg|gedB eAA2:|!
+Bdd2 edd2|gdBd gdBG|A2EA GABG|EAAG AcBA|!
+B2dB eBdB|A2FA DAFA|B2GA BABd|e2d2 edd2|edBd egec|d2eB fBAG|!
+EFGA|G2BG dGBG|A3B AGED|E2G2 G3:|!

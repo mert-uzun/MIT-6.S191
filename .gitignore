@@ -1,2 +1,4 @@
 .env
 .venv/
+settings.json
+lab1/training_checkpoints
